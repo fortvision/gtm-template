@@ -1,3 +1,11 @@
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
 ___INFO___
 
 {
@@ -21,7 +29,6 @@ ___INFO___
     "ANALYTICS"
   ]
 }
-
 
 ___TEMPLATE_PARAMETERS___
 
@@ -114,6 +121,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 11/25/2026, 6:39:01 PM
+Created on 11/25/2026, 8:01:52 PM
 
 
