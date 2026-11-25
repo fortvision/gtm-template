@@ -1,5 +1,5 @@
 homepage: "https://fortvision.com"
 documentation: "https://github.com/fortvision/gtm-template/blob/main/README.md"
 versions:
-  - sha: "22ff47a7439681ea30e45ed64973b350bde8aa56"
-    changeNotes: "Initial draft for review."
+  - sha: "7e916260f462219405c6a8df9f80e247f8ee2b94"
+    changeNotes: "Initial release."
