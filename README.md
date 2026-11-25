@@ -1,7 +1,5 @@
 # FORTVISION for Google Tag Manager
 
-**Status: draft — this template has not yet been published in the Community Template Gallery.**
-
 The FORTVISION tag loads the FORTVISION site tag for the Site ID you specify. It supports on-site campaigns and page-view reporting. What additional visitor and ecommerce events are available depends on the site's implementation and FORTVISION integrations.
 
 ## Before you begin
